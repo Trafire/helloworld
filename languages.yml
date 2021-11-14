@@ -1,6 +1,8 @@
-Java
+Java:
+  - console
 C
-Python
+Python:
+  - console
 C++
 Visual Basic .NET
 C#
@@ -13,7 +15,8 @@ Ruby
 MATLAB
 Assembly language
 Swift
-Go
+Go:
+  console
 Perl
 R
 SQL
@@ -24,7 +27,8 @@ F#
 COBOL
 Scala
 ABAP
-Fortran
+Fortran:
+  - console
 Lua
 Rust
 Lisp
