@@ -1,0 +1,2 @@
+https://urban-institute.medium.com/fortran-and-docker-how-to-combine-legacy-code-with-cutting-edge-components-35e934b15023
+https://fortran-lang.org/learn/quickstart/variables
